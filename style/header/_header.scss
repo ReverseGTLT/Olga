@@ -1,0 +1,7 @@
+@use "../common" as *;
+@use "../const" as *;
+
+.header {
+  height: 80px;
+  background-color: $color-header;
+}
